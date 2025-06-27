@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_main.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_item_workout_type.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\item_workout_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxxhdpi_app_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxxhdpi\\app_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_fragment_change_password.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\fragment_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-anydpi-v26_cats_round.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-anydpi-v26\\cats_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxhdpi_cats.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxhdpi\\cats.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-hdpi_app_icon.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-hdpi\\app_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-hdpi_app_icon_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-hdpi\\app_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xhdpi_app_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xhdpi\\app_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxxhdpi_cats.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxxhdpi\\cats.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xhdpi_app_icon_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xhdpi\\app_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-anydpi-v26_cats.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-anydpi-v26\\cats.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-mdpi_cats_foreground.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-mdpi\\cats_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable-hdpi_welcomescreenimage.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable-hdpi\\welcomescreenimage.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_welcome_screen.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\welcome_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxhdpi_app_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxhdpi\\app_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-hdpi_cats_round.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-hdpi\\cats_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-hdpi_app_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-hdpi\\app_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable_cats_background.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable\\cats_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-mdpi_app_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-mdpi\\app_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxxhdpi_cats_foreground.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxxhdpi\\cats_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_fragment_activity.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxxhdpi_app_icon.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxxhdpi\\app_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-mdpi_app_icon.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-mdpi\\app_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-mdpi_cats_round.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-mdpi\\cats_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable-xxxhdpi_welcomescreenimage.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable-xxxhdpi\\welcomescreenimage.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable-xhdpi_welcomescreenimage.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable-xhdpi\\welcomescreenimage.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxhdpi_cats_foreground.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxhdpi\\cats_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxhdpi_app_icon.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxhdpi\\app_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_registration.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_item_activity.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\item_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable_sports.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable\\sports.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-hdpi_cats.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-hdpi\\cats.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xhdpi_cats.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xhdpi\\cats.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable-mdpi_welcomescreenimage.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable-mdpi\\welcomescreenimage.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-mdpi_app_icon_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-mdpi\\app_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-hdpi_cats_foreground.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-hdpi\\cats_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-mdpi_cats.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-mdpi\\cats.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xhdpi_cats_foreground.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xhdpi\\cats_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable_app_icon_background.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable\\app_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_login.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxxhdpi_cats_round.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxxhdpi\\cats_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_fragment_new_activity.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\fragment_new_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable-xxhdpi_welcomescreenimage.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable-xxhdpi\\welcomescreenimage.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xhdpi_cats_round.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xhdpi\\cats_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxhdpi_cats_round.png.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxhdpi\\cats_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-pngs-70:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.fit.app-debug-74:/layout_activity_detail.xml.flat",
+        "source": "com.example.fit.app-main-76:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xhdpi_app_icon.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xhdpi\\app_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxxhdpi_app_icon_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxxhdpi\\app_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxhdpi_app_icon_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxhdpi\\app_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\color_nav_item_selector.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\color\\nav_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-debug-74:\\drawable_arrow_back.xml.flat",
+        "source": "C:\\Users\\ivanb\\.gradle\\daemon\\8.11.1\\com.example.fit.app-main-76:\\drawable\\arrow_back.xml"
+    }
+]

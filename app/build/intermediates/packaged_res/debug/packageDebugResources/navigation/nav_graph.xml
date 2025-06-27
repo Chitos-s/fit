@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/workoutListFragment">
+
+    <fragment
+        android:id="@+id/workoutListFragment"
+        android:name="com.example.fit.ui.WorkoutListFragment"
+        android:label="Workout List"
+        tools:layout="@layout/fragment_workout_list">
+        <action
+            android:id="@+id/action_workoutListFragment_to_newWorkoutFragment"
+            app:destination="@id/newWorkoutFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/newWorkoutFragment"
+        android:name="com.example.fit.ui.NewActivityFragment"
+        android:label="New Workout"
+        tools:layout="@layout/fragment_new_activity" />
+
+    <fragment
+        android:id="@+id/userInfoFragment"
+        android:name="com.example.fit.UserInfoFragment"
+        android:label="User Info"
+        tools:layout="@layout/fragment_profile">
+        <action
+            android:id="@+id/action_userInfoFragment_to_passwordUpdateFragment"
+            app:destination="@id/passwordUpdateFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/passwordUpdateFragment"
+        android:name="com.example.fit.PasswordUpdateFragment"
+        android:label="Password Update"
+        tools:layout="@layout/fragment_change_password" />
+
+</navigation> 

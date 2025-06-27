@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fit</string>
+    <string name="title_activity_registration">registration</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_main">Main</string>
+    <string name="back_button_description">Назад</string>
+    <string name="back_icon_description">Назад</string>
+    <string name="login_button_text">Войти</string>
+</resources>
